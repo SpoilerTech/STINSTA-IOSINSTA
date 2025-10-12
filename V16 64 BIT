@@ -3,9 +3,9 @@
     "latestVersionCode": 380802705,
     "latestVersion": "402.0.0.0.52",
     "url": "https://t.me/Instagram_developer",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "style": 3,
-    "dateSystem": false,
+    "dateSystem": true,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
@@ -22,9 +22,9 @@
     "latestVersionCode": 380802705,
     "latestVersion": "402.0.0.0.52",
     "url": "https://t.me/Instagram_developer",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "style": 3,
-    "dateSystem": false,
+    "dateSystem": true,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
