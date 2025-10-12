@@ -1,1 +1,40 @@
-
+{
+  "com.instagram.android": {
+    "latestVersionCode": 380802734,
+    "latestVersion": "402.0.0.0.52",
+    "url": "https://t.me/Instagram_developer",
+    "forceUpdate": false,
+    "style": 3,
+    "dateSystem": false,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  },
+  "com.stinsta.android": {
+    "latestVersionCode": 380802734,
+    "latestVersion": "402.0.0.0.52",
+    "url": "https://t.me/Instagram_developer",
+    "forceUpdate": false,
+    "style": 3,
+    "dateSystem": false,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  }
+}
