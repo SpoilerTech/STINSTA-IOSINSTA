@@ -5,7 +5,7 @@
     "url": "https://t.me/Instagram_developer",
     "forceUpdate": false,
     "style": 3,
-    "dateSystem": true,
+    "dateSystem": false,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
@@ -24,7 +24,7 @@
     "url": "https://t.me/Instagram_developer",
     "forceUpdate": false,
     "style": 3,
-    "dateSystem": true,
+    "dateSystem": false,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
