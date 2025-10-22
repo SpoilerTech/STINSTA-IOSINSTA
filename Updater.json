@@ -1,0 +1,11 @@
+{
+    "update": {
+        "v1": 2,
+        "v2": 1,
+        "clogs": "Base: V399.0.0.15.85\nAdded: Options to Customize UI Icons (InstaFlux Settings Icon, Light/Dark Mode Icon, Follow Indicator Icon)\nFixed: Download Options\nFixed: Follow Indicator\nFixed: Lag issues\nFixed: Minor Bugs",
+        "website": "https://t.me/+Ma2udNoTVokwOTY1",
+        "title": "",
+        "message": "",
+        "cancel": true
+    }
+}
