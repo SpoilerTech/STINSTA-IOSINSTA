@@ -2,10 +2,10 @@
   "com.instagram.android": {
     "latestVersionCode": 380802705,
     "latestVersion": "402.0.0.0.52",
-    "url": "https://t.me/Instagram_developer",
+    "url": "https://t.me/+Ma2udNoTVokwOTY1",
     "forceUpdate": false,
     "style": 3,
-    "dateSystem": false,
+    "dateSystem": true,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
@@ -21,10 +21,10 @@
   "com.stinsta.android": {
     "latestVersionCode": 380802705,
     "latestVersion": "402.0.0.0.52",
-    "url": "https://t.me/Instagram_developer",
+    "url": "https://t.me/+Ma2udNoTVokwOTY1",
     "forceUpdate": false,
     "style": 3,
-    "dateSystem": false,
+    "dateSystem": true,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
