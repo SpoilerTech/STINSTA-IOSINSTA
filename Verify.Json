@@ -1,6 +1,6 @@
 {
     "dialog_enabled": true,
-    "telegram_url": "https://t.me/yourchannel",
+    "telegram_url": "https://t.me/SpoilerTech",
     "verify_url": "https://linkshortner.com/verify",
     "howto_url": "https://youtube.com/watch?v=xxx",
     "verify_cooldown_hours": 24,
