@@ -1,8 +1,8 @@
 {
     "update": {
         "v1": 1,
-        "v2": 00,
-        "clogs": "\nBase: V402.0.0.0.52\nAdded: Options to Change Emoji (Long Press On Instagram Icon, For Emoji Menu)\nFixed: Download Options\nFixed: Follow Indicator\nFixed: Lag issues\nFixed: Minor Bugs",
+        "v2": 10,
+        "clogs": "\nBase: V406.0.0.0.137\nAdded: Options to Change Emoji (Long Press On Instagram Icon, For Emoji Menu)\nFixed: Download Options\nFixed: Follow Indicator\nFixed: Lag issues\nFixed: Minor Bugs",
         "website": "https://t.me/instaZen_Official",
         "title": "",
         "message": "",
