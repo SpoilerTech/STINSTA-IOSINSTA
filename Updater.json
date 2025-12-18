@@ -1,11 +1,11 @@
 {
     "update": {
-        "v1": 18,
+        "v1": 20,
         "v2": 0,
-        "clogs": "\nBase: v408.0.0.0.11\nAdded: Options to Change Emoji (Long Press On Instagram Icon, For Emoji Menu)\nFixed: Download Options\nFixed: Follow Indicator\nFixed: Lag issues\nFixed: Minor Bugs",
-        "website": "https://youtu.be/VSVTEX3Oj4A",
+        "clogs": "\nBase: v411.0.0.0.62\nAdded: Options to Change Emoji (Long Press On Instagram Icon, For Emoji Menu)\nFixed: Download Options\nFixed: Follow Indicator\nFixed: Lag issues\nFixed: Minor Bugs",
+        "website": "https://t.me/STinsta_official",
         "title": "🚀 ST INSTA v18 New Update!",
-        "message": "",
+        "message": "Test",
         "cancel": true
     }
 }
