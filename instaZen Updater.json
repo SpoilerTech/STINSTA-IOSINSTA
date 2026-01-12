@@ -6,6 +6,6 @@
         "website": "https://t.me/instaZen_Official",
         "title": "",
         "message": "",
-        "cancel": true
+        "cancel": false
     }
 }
